@@ -89,7 +89,7 @@ export default {
 	},
 	setup(){
 
-		provide("footerText", "@2024 MyApp. All rights reserved.");
+		provide("footerText", "@2024 Muhammad Sagor. All rights reserved.");
 	},
 };
 
